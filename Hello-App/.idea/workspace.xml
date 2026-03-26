@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8146e85-c645-4dd5-bfe6-df95b8e7d265" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hello-App" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Helloapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helloapp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApp_UC5.executor": "Run",
     "Application.Helloapp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773823247736</updated>
       <workItem from="1773823261348" duration="284000" />
-      <workItem from="1774425397900" duration="3184000" />
+      <workItem from="1774425397900" duration="4387000" />
     </task>
     <servers />
   </component>
